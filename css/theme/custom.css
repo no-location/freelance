@@ -1,0 +1,43 @@
+.reveal h1 {
+  text-shadow: none;
+}
+
+.reveal .infos {
+  display: none;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal p {
+  padding: 0 10px;
+}
+
+.reveal span {
+  background: black;
+  padding: 0 10px;
+}
+
+.reveal small {
+    display: inline-block;
+    font-size: 0.6em;
+    vertical-align: middle;
+}
+
+.reveal p {
+  font-family: "League Gothic", Impact, sans-serif;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  word-wrap: break-word;
+  letter-spacing: 3px;
+  font-size: 1.2em;
+}
+
+.reveal a {
+}
+
+.reveal .slides {
+  right: 0;
+  text-align: right;
+}
